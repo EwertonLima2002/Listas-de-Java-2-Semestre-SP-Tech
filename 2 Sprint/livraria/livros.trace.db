@@ -1,0 +1,3 @@
+2023-10-08 17:49:56.880048-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "LIVRO" not found (this database is empty); SQL statement:
+INSERT INTO livro (nome_livro, valor_livro) VALUES ( ? , ?) [42104-222]
